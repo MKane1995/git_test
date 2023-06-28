@@ -1,1 +1,1 @@
-Usinf the traditional "Hello World" to refresh on git command basics.
+Using the traditional "Hello World" to refresh on git command basics.
